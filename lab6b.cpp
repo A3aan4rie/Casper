@@ -33,7 +33,7 @@ int rollD4() {
 
 int main() {
 
-    // Seed the random number generator with the current time  -- added by AFD
+    // Seed the random number generator with the current time
 
     srand(static_cast<unsigned int>(time(0)));
     
